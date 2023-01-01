@@ -8,3 +8,4 @@
 ## Table of Contents
 
 - [Smileys & Emotion](#smileys--emotion)
+- [People & Body](#people--body)
