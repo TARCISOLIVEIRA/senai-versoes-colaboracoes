@@ -1,63 +1,17 @@
-
- 
- 
- <h2> Versionamento</h1>
+<h1> Versionamento</h1>
  #VERSÕES DE UM ARQUIVO
  Uma das vantagens de se trabalhar com arquivos digitais é a facilidade de alterá-los. Para manter o histórico dessas atualizações, é possível criar  versões do arquivo original. Mas como manter o controle dessas versões ao longo do desenvolvimento do projeto?
 
-## Table of Contents
+## Git
+ O Git é um Sistema de Controle de Versão Distribuído, portanto todos os programadores que estão utilizando-o têm uma cópia de todo o trabalho em suas máquinas locais. A cada alteração realizada pelo programador, seu histórico é mantido em sua máquina local e também no servidor central.
 
-- [Smileys & Emotion](#smileys--emotion)
-- [People & Body](#people--body)
-#### Face Smiling
-
-| | ico | shortcode | ico | shortcode | |
-| - | :-: | - | :-: | - | - |
-| [top](#smileys--emotion) | :grinning: | `:grinning:` | :smiley: | `:smiley:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :smile: | `:smile:` | :grin: | `:grin:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :laughing: | `:laughing:` <br /> `:satisfied:` | :sweat_smile: | `:sweat_smile:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :rofl: | `:rofl:` | :joy: | `:joy:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :slightly_smiling_face: | `:slightly_smiling_face:` | :upside_down_face: | `:upside_down_face:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :wink: | `:wink:` | :blush: | `:blush:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :innocent: | `:innocent:` | | | [top](#table-of-contents) |
-  
-  
-  
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  |  Casa da  força  !
-| Content Cell  | Content Cell  |
+ Além de ser um DVCS, o Git é também um open source (código aberto), ou seja, é um software que qualquer pessoa pode baixar, usar e modificar o código.
 
 
-# Projeto Exemplo
-Repositório criado com o objetivo de compartilhar 
-conteúdo sobre orientação a objetos.
-## :rocket: Descrição
-"A programação orientada a objetos..."
----
-## 👨‍💻️ Tecnologias Utilizadas
-Esse projeto foi criado utilizando as tecnologias:
-### Back-End
-- 
-[C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
-- [.NET](https://dotnet.microsoft.com/download)
-### Editor
-- [Visual Studio Code](https://code.visualstudio.com/)
----
-## 📦️ Como rodar o projeto
-Clone o projeto com o comando abaixo:
-```bash
-  # Clone o repositório
-  ❯ git clone 
-https://github.com/[usuario]/[nome-projeto].git
-	# Entre no diretório
-  ❯ cd [nome-projeto]
-	# Execute o projeto
-  ❯ dotnet run
-```
----
-## 🔮 Funcionalidades Futuras
-- [x] A
-- [ ] B
-- [ ] C
----
+#### Você sabia
+O git e o GitHub foram desenvolvidos por Linus Torvalds o criador do sistema Linux. 
+
+#### Saiba Mais
+Estude mais sobre sistema centralizados e distribuidos .
+
+![](C:\Users\NevesRibeiro\Desktop\senai)
