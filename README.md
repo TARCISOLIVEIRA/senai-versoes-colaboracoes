@@ -1,4 +1,6 @@
 
+ 
+ 
  <h2> Versionamento</h1>
  #VERSÕES DE UM ARQUIVO
  Uma das vantagens de se trabalhar com arquivos digitais é a facilidade de alterá-los. Para manter o histórico dessas atualizações, é possível criar  versões do arquivo original. Mas como manter o controle dessas versões ao longo do desenvolvimento do projeto?
